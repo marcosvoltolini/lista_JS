@@ -1,7 +1,8 @@
 function ordenacaoValores() {
-    console.log("3. Manipulação de Strings");
-    let text = promp("Digite um texto: ");
-
-    console.log(text.split(""). reverse().joi(""));
-
+    let numeros = [];
+    for (let i = 0; i < 4; i++) {
+        numeros.push(Number(prompt("Digite um número: ")));
+    }
+    numeros.sort((a,b) => b-a);
+    alert("Ordem descrescente: " + numeros);
 }
