@@ -1,4 +1,4 @@
-function ex03() {
+function balancoAnual() {
     let ganhoAnual = 0;
     let gastoAnual = 0;
 
@@ -23,4 +23,4 @@ function ex03() {
         }
     }
 }
-ex03();
+//ex03();
