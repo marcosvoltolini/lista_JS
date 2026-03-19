@@ -11,9 +11,9 @@ function balancoAnual() {
         console.log(gastoAnual);
 
         let saldo = ganhoAnual - gastoAnual;
-        alert ("Ganho Anual:", ganhoAnual);
-        alert ("Gasto Anual:", gastoAnual);
-        alert ("Saldo Anual:", saldo);
+        alert ("Ganho Anual:" + ganhoAnual);
+        alert ("Gasto Anual:" + gastoAnual);
+        alert ("Saldo Anual:" + saldo);
 
         if (saldo >0){
             alert("lucro!");
@@ -23,4 +23,3 @@ function balancoAnual() {
         }
     }
 }
-//ex03();
