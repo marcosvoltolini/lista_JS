@@ -9,4 +9,5 @@ function Contagem() {
     //alert ("Lançamento realizado!");
     console.log ("Lançameno realizado");
 };
-//Contagem();
+Contagem();
+
