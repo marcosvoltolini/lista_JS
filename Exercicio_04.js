@@ -5,3 +5,4 @@ function atividade4() {
     console.log(text.split(""). reverse().joi(""));
 
 }
+//atividade4 ();
