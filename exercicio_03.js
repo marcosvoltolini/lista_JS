@@ -13,7 +13,7 @@ function ex03() {
         let saldo = ganhoAnual - gastoAnual;
         alert ("Ganho Anual:", ganhoAnual);
         alert ("Gasto Anual:", gastoAnual);
-        alert ("Saldo Anual:", Saldo);
+        alert ("Saldo Anual:", saldo);
 
         if (saldo >0){
             alert("lucro!");
