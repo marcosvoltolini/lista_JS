@@ -19,7 +19,7 @@ function ex03() {
             alert("lucro!");
 
         }else{
-            alert(prejuízo!);
+            alert("prejuizo!");
         }
     }
 }
