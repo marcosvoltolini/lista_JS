@@ -10,4 +10,3 @@ function transformacao() {
     }
     alert ("Seu numero é:" + numero);
 }
-transformacao ()
